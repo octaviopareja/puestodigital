@@ -1,0 +1,23 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.19.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.19.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAKIWDWbCodwqkMYe1K2K_xKFbx1p9paFM",
+    authDomain: "puesto-digital.firebaseapp.com",
+    databaseURL: "https://puesto-digital.firebaseio.com",
+    projectId: "puesto-digital",
+    storageBucket: "puesto-digital.appspot.com",
+    messagingSenderId: "93344873568",
+    appId: "1:93344873568:web:20d7d6d310f63fc6ccd705",
+    measurementId: "G-K6G8FQ63TK"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>

@@ -1,0 +1,7 @@
+.iconCart {font-size: 18px; color: #fff;}
+.linkCarrito p {font-size: 16px; color: rgba(255,255,255,.5);}
+
+@media (max-width: 991px) { 
+.linkCarrito {margin-top: 10px;} 
+.linkCarrito a {text-align: center;	margin: 0 auto;	width: 105px;display: inherit;} 
+}

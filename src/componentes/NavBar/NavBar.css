@@ -1,0 +1,12 @@
+.divider {font-size: 22px; color: #ccc; padding: 0 20px;}
+
+@media (max-width: 991px) { 
+.nav-link {text-align: center;}
+.navbar-collapse {padding-top: 5px; margin-top: 15px;  border-top: 1px solid rgba(255,255,255,.5);}
+}
+
+.dropdown.nav-item .dropdown-toggle.nav-link  {color: #fff !important; padding-top: 5px !important;}
+.dropdown-menu ul {margin-bottom: 0;}
+.dropdown-menu ul li {color: #000 !important; padding: 5px !important; }
+.dropdown-menu ul li:hover {background-color:#ccc; }
+.dropdown-menu ul li a {color: #000 !important; padding: 5px !important; text-align:left; text-decoration: none;}
