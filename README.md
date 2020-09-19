@@ -12,21 +12,21 @@ Ademas esta conectado a una pequeña _db_ de [Firebase](https://firebase.google.
 
 ## 1) Instalación
 
-Utulizar [npm](https://docs.npmjs.com) para instalar la aplicación.
+Utilizar [npm](https://docs.npmjs.com) para instalar la aplicación.
 ```bash
 npm install
 ```
 
 ## 2) Testeo del proyecyo
 
-Utulizar [npm](https://docs.npmjs.com) para iniciar la aplicación
+Utilizar [npm](https://docs.npmjs.com) para iniciar la aplicación
 ```bash
 npm start
 ```
 
 ## Compilación
 
-Utulizar [npm](https://docs.npmjs.com) para compilar la aplicación.
+Utilizar [npm](https://docs.npmjs.com) para compilar la aplicación.
 ```bash
 npm run build
 ```
