@@ -6,27 +6,27 @@ Es una tienda de e-commerce, totalmente creada en ReactJS, para mi proyecto fina
 
 El proyecto esta creado con la librería [React-Bootstrap](https://react-bootstrap.github.io/) para las vistas de usuario, permitiendo asi mayor escalabilidad para agregar nuevas funciones y desarrollar el front. 
 
-En todo el proyecto se utulizaron _hooks_ y _ES6_
+En todo el proyecto se utilizaron _hooks_ y _ES6_
 
 Ademas esta conectado a una pequeña _db_ de [Firebase](https://firebase.google.com/?hl=es) desde donde se cargan los productos para la tienda y se guardan las ordenes de compra de los clientes.
 
 ## 1) Instalación
 
-Utulizar [npm](https://docs.npmjs.com) para instalar la aplicación.
+Utilizar [npm](https://docs.npmjs.com) para instalar la aplicación.
 ```bash
 npm install
 ```
 
 ## 2) Testeo del proyecyo
 
-Utulizar [npm](https://docs.npmjs.com) para iniciar la aplicación
+Utilizar [npm](https://docs.npmjs.com) para iniciar la aplicación
 ```bash
 npm start
 ```
 
 ## Compilación
 
-Utulizar [npm](https://docs.npmjs.com) para compilar la aplicación.
+Utilizar [npm](https://docs.npmjs.com) para compilar la aplicación.
 ```bash
 npm run build
 ```
