@@ -18,8 +18,7 @@ function Item({imagen, titulo, descripcion, precio, stock, id, categoria,  onCha
                 <Card.Body>
                     <Card.Title><h2 style={{fontSize:'18px', textAlign:'center', fontWeight:'bold'}}>{titulo}</h2></Card.Title>
                     <Card.Text style={{fontSize:'14px', textAlign:'center', fontWeight:'light', lineHeight:'18px'}}>
-                    {descripcion}
-                    {id}
+                    {descripcion}               
                     </Card.Text>
                     <h5 style={{fontSize:'25px', textAlign:'center', fontWeight:'bold', color:'red'}}>$ {precio}</h5>            
                 </Card.Body>
