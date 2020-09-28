@@ -12,6 +12,7 @@ function ItemDetailContainer() {
 
 
     const {id} = useParams();
+
 /*
     useEffect(() => {
         console.log('Recibido el id:', id);
